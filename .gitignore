@@ -1,0 +1,24 @@
+# === C++ Executables & Objects ===
+*.o
+*.obj
+*.out
+*.exe
+*.app
+
+# === Build Folders ===
+build/
+bin/
+obj/
+
+# === IDE specific files (VS Code, CLion, etc.) ===
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# === Linux Specific ===
+.DS_Store
+*~
+*.log
+main
+test
