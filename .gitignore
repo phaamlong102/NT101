@@ -15,6 +15,8 @@ obj/
 .idea/
 *.swp
 *.swo
+*.docx
+*.doc
 
 # === Linux Specific ===
 .DS_Store
@@ -22,3 +24,6 @@ obj/
 *.log
 main
 test
+
+cmake-build-debug/
+cmake-build-release/
